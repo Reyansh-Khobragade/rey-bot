@@ -1,3 +1,6 @@
+# Rey-Bot
+
+a simple discord bot which is fun to use.
 
 
 <img src="https://cdn.discordapp.com/attachments/774847277092962345/774847506777374772/standard.gif">
