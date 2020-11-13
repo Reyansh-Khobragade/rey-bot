@@ -25,6 +25,7 @@ double click the installdepends.bat script to install all dependencies
 1. go to `index.js` and change the token of the bot in the location
 2. Download the upload the emoji's to your server and change the name and id of them where they are used
 2. After doing all of these stuff do the following to run the bot
+
 #FOR LINUX
 ```bash
 sudo chmod +x run.sh
