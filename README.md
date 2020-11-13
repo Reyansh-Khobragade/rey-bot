@@ -18,7 +18,7 @@ sudo chmod +x installdepends.sh
 
 #FOR WINDOWS
 ```
-double click the installdepends.bat fule to install all dependencies
+double click the installdepends.bat script to install all dependencies
 ```
 ## Usage
 
