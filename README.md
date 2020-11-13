@@ -36,7 +36,7 @@ sudo chmod +x run.sh
 ```
 double click the run.bat script to start the bot
 ```
-:warn: you need to have NodeJS installed by default!
+:You need to have NodeJS installed!!!
 
 Have fun playing with it :D 
 
