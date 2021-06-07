@@ -7,7 +7,7 @@ a simple discord bot which is fun to use.
 
 
 ## Installing Dependencies
-#FOR LINUX
+### FOR LINUX
 download all the files and then do the following commands
 
 ```bash
@@ -16,7 +16,7 @@ sudo chmod +x installdepends.sh
 ./installdepends.sh
 ```
 
-#FOR WINDOWS
+### FOR WINDOWS
 ```
 double click the installdepends.bat script to install all dependencies
 ```
@@ -26,13 +26,13 @@ double click the installdepends.bat script to install all dependencies
 2. Download the upload the emoji's to your server and change the name and id of them where they are used
 2. After doing all of these stuff do the following to run the bot
 
-#FOR LINUX
+### FOR LINUX
 ```bash
 sudo chmod +x run.sh
 #this is for making the script executable
 ./run.sh
 ```
-#FOR WINDOWS
+### FOR WINDOWS
 ```
 double click the run.bat script to start the bot
 ```
